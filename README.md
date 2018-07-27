@@ -1,1 +1,1 @@
-# hello_world_2
+// this is javascript code
